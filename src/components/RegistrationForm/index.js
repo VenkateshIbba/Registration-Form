@@ -106,7 +106,7 @@ class RegistrationForm extends Component {
 
     return (
       <div className="bg-container">
-        <h1 className="heading">Registration Form</h1>
+        <h1 className="heading">Registration</h1>
         {isFormSubmit ? (
           <div className="submit-container">
             <img
